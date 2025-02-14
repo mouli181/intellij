@@ -15,7 +15,7 @@ public class Arraylist {
         list2.addAll(list);
         list2.addAll(list1);
         System.out.println(list2);
-        list.
+
 
     }
 }
