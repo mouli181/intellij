@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c4687f-122b-4a64-b417-7ef7957d37ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enumrations/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enumrations/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enumrations/TestEnumSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="46c4687f-122b-4a64-b417-7ef7957d37ff" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/abstractionex/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceex/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismex/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superandthis/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superandthis/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -57,12 +48,16 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2rKlZOLJ9V3HKPPvDskimsnTMLI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestEnumSet.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -81,6 +76,27 @@
       <option name="presentableId" value="Default" />
       <updated>1736315702365</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1739524634395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739524634396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1739524655110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739524655110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
