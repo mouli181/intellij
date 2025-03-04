@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46c4687f-122b-4a64-b417-7ef7957d37ff" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/abstractionex/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceex/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphismex/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphismex/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superandthis/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superandthis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Rentable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/ArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enuerations/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enuerations/EnumsetEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +54,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ArrayListEx.executor&quot;: &quot;Run&quot;,
     &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestEnumSet.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -92,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739524655110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1740575001269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740575001269</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
