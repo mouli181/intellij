@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c4687f-122b-4a64-b417-7ef7957d37ff" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Rentable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/ArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enuerations/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enuerations/EnumsetEx.java" afterDir="false" />
+    <list default="true" id="46c4687f-122b-4a64-b417-7ef7957d37ff" name="Changes" comment="next">
+      <change afterPath="$PROJECT_DIR$/src/Encaps/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance__/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/GenericEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,6 +61,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/Downloads/jdbc&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dell/OOPs/src/Main.java&quot;
   }
 }</component>
@@ -99,11 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740575001269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="next">
+      <option name="closed" value="true" />
+      <created>1741084359215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741084359215</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="next" />
+    <option name="LAST_COMMIT_MESSAGE" value="next" />
   </component>
 </project>
